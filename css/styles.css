@@ -726,6 +726,7 @@ nav {
     font-family: "Fira Sans", serif;
     font-weight: 400;
     margin-bottom: 20px;
+    border-radius: 5px;
     border: none;
 }
 
